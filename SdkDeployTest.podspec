@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name                     = "SdkDeployTest"
-  spec.version                  = "0.1.1"
+  spec.version                  = "0.1.2"
   spec.summary                  = "A short description of SdkDeployTest."
   spec.description              = "SdkDeployTest"
   spec.homepage                 = "https://github.com/gaonK/SdkDeployTest"

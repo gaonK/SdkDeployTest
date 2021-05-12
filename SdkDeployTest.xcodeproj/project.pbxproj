@@ -8,11 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		0BBDD21226380F5E00633F35 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 0BBDD21126380F5E00633F35 /* Alamofire */; };
-		0BBDD217263810D000633F35 /* ApiTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BBDD2062638057700633F35 /* ApiTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0BBDD2062638057700633F35 /* ApiTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiTest.swift; sourceTree = "<group>"; };
 		0BE876162636A89300F3E3EF /* SdkDeployTest.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SdkDeployTest.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BE8761A2636A89300F3E3EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -57,7 +55,6 @@
 			isa = PBXGroup;
 			children = (
 				0BE8761A2636A89300F3E3EF /* Info.plist */,
-				0BBDD2062638057700633F35 /* ApiTest.swift */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -146,7 +143,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0BBDD217263810D000633F35 /* ApiTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
